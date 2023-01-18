@@ -1,0 +1,41 @@
+
+.button{
+    /* display:flex; */
+    margin-top:20px;
+    width:150px;
+    height: 40px;
+    background: rgb(229, 37, 178);
+    border-radius:30px;
+    border:2px solid red;
+    text-align: center;
+}
+.button:hover{
+    opacity:0.4;
+}
+ .list{
+    width:200px;
+    height:50px;
+    margin-top: 60px;
+    row-gap: 20px;
+    color:rgb(34, 10, 64);
+    text-align: center; 
+    margin-left: 700px;
+    box-sizing: border-box;
+    border-radius:30px;
+    border-color: darkblue;
+    background: rgb(151, 108, 189);
+}
+
+
+
+
+/* .user {
+    width:20px;
+    height:39px;
+    background: brown;
+}
+.years{
+    width:40px;
+    height:20px;
+    background:navy;
+} */
